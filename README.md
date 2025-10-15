@@ -1,4 +1,22 @@
-# HelloCV
+*# HelloCV
+https://www.yuque.com/r/note/b0774f21-3c5b-439c-8bd6-b0d1fca57091 （ros2）
+
+
+https://www.yuque.com/r/note/b394cc87-9953-40a8-ad62-12531a50047a (opencv)
+
+
+https://www.yuque.com/r/note/2f9ca128-a7f1-4bb6-bad4-2fcd7dc530df (vscode)
+
+
+https://www.yuque.com/r/note/9eee5087-07ef-4e5f-90e6-1f53f3ab79f9 (github SSH)
+
+
+https://www.yuque.com/r/note/26e6e9cc-aa75-440f-b5ba-28500ba886e7 (github knowledge note)
+
+
+https://www.yuque.com/r/note/f8271f68-b975-43c8-8e15-585926e4685c (linux knowledge note)
+
+
 一点点感想（学习笔记和遇到问题都在语雀文件里哦）
 
 github的下载，仓库的创建，vscode的安装（小鱼甚至帮忙自带了，后面重新找视频又学了一遍），ros2的安装相对轻松，有鱼香ros大佬的帮助节约了非常多时间，而且视频中也有对命令基本知识的讲解，（后来学完linux和github中命令知识后回头再看手敲命令和自动运行的命令也会有新的理解）
