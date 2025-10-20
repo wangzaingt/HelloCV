@@ -1,0 +1,3 @@
+/home/ngt/cryptotool/build/CMakeFiles/CryptoTool.dir
+/home/ngt/cryptotool/build/CMakeFiles/edit_cache.dir
+/home/ngt/cryptotool/build/CMakeFiles/rebuild_cache.dir
