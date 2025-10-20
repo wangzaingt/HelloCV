@@ -2,6 +2,9 @@
 WEEK TWO
 
 
+https://www.yuque.com/r/note/3d9122fd-80e6-4f54-9fae-b5b02ef5bad2 （jiami程序）
+
+
 https://www.yuque.com/r/note/ddad1ca4-d957-42d5-a10f-e058890faff9  （CMake）
 
 
