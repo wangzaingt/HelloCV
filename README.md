@@ -1,6 +1,8 @@
 *# HelloCV
 WEEK TWO
 
+程序在master分支里
+
 
 https://www.yuque.com/r/note/3d9122fd-80e6-4f54-9fae-b5b02ef5bad2 （jiami程序）
 
