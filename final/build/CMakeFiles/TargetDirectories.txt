@@ -1,0 +1,3 @@
+/home/ngt/Desktop/final/build/CMakeFiles/opencvtest.dir
+/home/ngt/Desktop/final/build/CMakeFiles/edit_cache.dir
+/home/ngt/Desktop/final/build/CMakeFiles/rebuild_cache.dir
